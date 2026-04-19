@@ -2,6 +2,11 @@
 
 A simple public list of math books.
 
+## Open Source
+
+This is an open source repository, and everyone is welcome to contribute.
+If you know a good math book, please add it to the catalog.
+
 ## What This Repo Is
 
 This repository is intentionally minimal:
@@ -32,6 +37,14 @@ Each row has:
 ## Legal Rule
 
 Only include legal links or public-domain/open-access files.
+
+## Contributing
+
+Everyone can help improve this library.
+
+1. Fork the repository.
+2. Add one or more books in `CATALOG.md`.
+3. Open a pull request with your changes.
 
 ## Optional Notes File
 

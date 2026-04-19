@@ -1,4 +1,4 @@
-# Math Books Library
+# MathBooks
 
 Public, organized, and searchable library for math books.
 
@@ -42,7 +42,7 @@ books/axler-linear-algebra-done-right-2015/
 ## Repository Structure
 
 ```text
-math-books-library/
+mathbooks/
   README.md
   LICENSE
   books/
@@ -178,8 +178,8 @@ Each index entry should use this format:
 After creating this repo on GitHub:
 
 ```bash
-git clone https://github.com/<your-username>/math-books-library.git
-cd math-books-library
+git clone https://github.com/<your-username>/mathbooks.git
+cd mathbooks
 ```
 
 Then add your first book from the templates.
@@ -187,4 +187,3 @@ Then add your first book from the templates.
 ## License Recommendation
 
 Use `CC BY 4.0` for repository metadata and notes.
-

@@ -1,0 +1,14 @@
+id: author-title-year
+title: ""
+author: ""
+year: 0000
+language: en
+level: beginner
+topics:
+  - algebra
+keywords:
+  - ""
+license: public_domain
+availability: metadata_only
+sources:
+  - https://example.com
